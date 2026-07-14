@@ -1,5 +1,8 @@
 # DSM050-Midterm---Exercise-and-Menstrual-Pain-An-Exploratory-Data-Analysis
 
+## Project description
+
+This project performs an exploratory data analysis (EDA) on the mcPHASES dataset. Sepcificlly, this analysis aims at assessing the relationship between exercise and self-report physical and mood symptoms. 
 
 ## Data Access
 The dataset used in this project is publicly available from the mcPHASES study. However, **cannot be hosted directly in this repository**, 
