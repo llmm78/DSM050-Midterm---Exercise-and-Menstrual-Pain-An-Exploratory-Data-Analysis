@@ -5,7 +5,7 @@
 This project performs an exploratory data analysis (EDA) on the mcPHASES dataset. Specifically, this analysis aims at assessing the relationship between exercise and self-report physical and mood symptoms. 
 
 ## Data Access
-The **dataset**c used in this project is publicly available from the mcPHASES study. However, **cannot be hosted directly in this repository**, due to licensing restrictions! 
+The **dataset** used in this project is publicly available from the mcPHASES study. However, **cannot be hosted directly in this repository**, due to licensing restrictions! 
 
 In PhysioNet Credentialed Health Data Use Agreement 1.5.0 it is stated that: "If I am granted access to the database:...I will not share access to PhysioNet restricted data with anyone else."
 
